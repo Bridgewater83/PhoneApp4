@@ -1,0 +1,10 @@
+body {
+	text-align: center;
+	background: lightblue
+	}
+	#content{
+	height: 25%;
+	background: grey;
+	color: white;
+	cursor: pointer;
+	}
